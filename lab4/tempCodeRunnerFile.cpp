@@ -1,0 +1,1 @@
+cin >> LeftOperand >> Operator >> RightOperand;
